@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Medicos</h1>
+
+<div class="modal fade" id="MedicoModal" tabindex="-1" aria-labelledby="MedicoModal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="MedicoModal">Médico</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" onclick="LimpiarMedico()"></button>
+            </div>
+            <div class="modal-body">
+                <form method="post" id="frmGuardarMedico" class="row g-3">
+                    <div class="col-md-3">
+                        <label for="idMedico" class="form-label">Id Medico</label>
+                        <input type="text" class="form-control" readonly id="idMedico" name="idMedico" placeholder="Id Medico">
+                    </div>
+                    <div class="col-md-3">
+                        <label for="especialidadId" class="form-label">Especialidad</label>
+                        <input type="text" class="form-control" id="especialidadId" name="especialidadId" placeholder="Id Especialidad">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="nombre" class="form-label">Nombre</label>
+                        <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="apellido" class="form-label">Apellido</label>
+                        <input type="text" class="form-control" id="apellido" name="apellido" placeholder="Apellido">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="telefono" class="form-label">Telefono</label>
+                        <input type="text" class="form-control" id="telefono" name="telefono" placeholder="Telefono">
+                    </div>
+                    <div class="col-md-12">
+                        <label for="email" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" onclick="GuardarMedico()" class="btn btn-primary" data-bs-dismiss="modal">Guardar</button>
+                <button type="button" onclick="LimpiarMedico()" class="btn btn-danger">Limpiar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="divTabla">
+</div>
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/medico.js"></script>

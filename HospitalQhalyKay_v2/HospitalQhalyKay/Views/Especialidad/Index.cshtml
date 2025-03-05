@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Especialidades</h1>
+
+<div class="modal fade" id="EspecialidadModal" tabindex="-1" aria-labelledby="EspecialidadModal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="EspecialidadModal">Especialidades</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" onclick="LimpiarEspecialidad()"></button>
+            </div>
+            <div class="modal-body">
+                <form method="post" id="frmGuardarEspecialidades" class="row g-3">
+                    <div class="col-md-6">
+                        <label for="idEspecialidad" class="form-label">Id Especialidad</label>
+                        <input type="text" class="form-control" readonly id="idEspecialidad" name="idEspecialidad" placeholder="Id Especialidad">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="nombre" class="form-label">Especialidad</label>
+                        <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre Especialidad">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" onclick="GuardarEspecialidad()" class="btn btn-primary" data-bs-dismiss="modal">Guardar</button>
+                <button type="button" onclick="LimpiarEspecialidad()" class="btn btn-danger">Limpiar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="divTabla">
+</div>
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/especialidades.js"></script>

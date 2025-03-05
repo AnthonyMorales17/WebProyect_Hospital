@@ -1,0 +1,497 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - HospitalQhalyKay</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/style.css" asp-append-version="true" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@@fancyapps/ui@4.0/dist/fancybox.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+    <link href="https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
+</head>
+<body data-bs-spy="scroll" data-bs-target=".navbar">
+    <header>
+        <nav class="navbar navbar-expand-lg bg-white sticky-top">
+            <div class="container">
+                <a class="navbar-brand" href="#"><h2 class="mb-0 text-dark">Qhali Khan</h2></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Paciente" asp-action="Index">Pacientes</a>
+                        </li>
+                        <li>
+                            <a class="nav-link" asp-area="" asp-controller="Especialidad" asp-action="Index">Especialidad</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Tratamiento" asp-action="Index">Tratamientos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Medico" asp-action="Index">Médicos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Facturacion" asp-action="Index">Facturación</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Cita" asp-action="Index">Citas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#contact">Contact</a>
+                        </li>
+                    </ul>
+                    <a href="#" id="btn-brand" class="btn btn-brand ms-lg-3"><i class="bi bi-calendar4-week"></i> Agendar Cita</a>
+                </div>
+            </div>
+        </nav>
+        @* <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">WebApplication1</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav> *@
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @* <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - WebApplication1 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer> *@
+    <footer class="bg-dark">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row gy-5">
+                    <div class="col-lg-3 col-sm-6">
+                        <!-- <a href="#"><img src="./assets/images/logo-white.svg" alt=""></a> -->
+                        <a href="#"><h5 class="mb-0 text-white">Qhali Khan</h5></a>
+                        <div class="line"></div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, hic!</p>
+                        <div class="social-icons">
+                            <a href="#"><i class="ri-twitter-fill"></i></a>
+                            <a href="#"><i class="ri-instagram-fill"></i></a>
+                            <a href="#"><i class="ri-github-fill"></i></a>
+                            <a href="#"><i class="ri-dribbble-fill"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <h5 class="mb-0 text-white">Servicios</h5>
+                        <div class="line"></div>
+                        <ul>
+                            <li><a href="#">UI Design</a></li>
+                            <li><a href="#">UX Design</a></li>
+                            <li><a href="#">Branding</a></li>
+                            <li><a href="#">Logo Designing</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <h5 class="mb-0 text-white">Nosotros</h5>
+                        <div class="line"></div>
+                        <ul>
+                            <li><a href="#">Noticias</a></li>
+                            <li><a href="#portfolio">Instalaciones</a></li>
+                            <li><a href="#">Tratamientos</a></li>
+                            <li><a href="#team">Médicos</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <h5 class="mb-0 text-white">CONTACTO</h5>
+                        <div class="line"></div>
+                        <ul>
+                            <li>Quito</li>
+                            <li>4007100</li>
+                            <li>www.qhalikhan.com</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row g-4 justify-content-between">
+                    <div class="col-auto">
+                        <p class="mb-0">© Copyright Qhali Khan. All Rights Reserved</p>
+                    </div>
+                    <div class="col-auto">
+                        <p class="mb-0">Designed with By <a href="">THE EMINENCE</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/@@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
+    <script src="~/lib/bootstrap/dist/js/main.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+<style>
+    :root {
+        --c-dark: #212529;
+        --c-brand: #4e57d4;
+        --c-brand-light: #6970dd;
+        --c-brand-rgb: 78, 87, 212;
+        --c-body: #727272;
+        --font-base: "ClashDisplay", sans-serif;
+        --box-shadow: 0px 15px 25px rgba(0,0,0,0.08);
+        --transition: all 0.5s ease;
+    }
+
+
+    body {
+        font-family: var(--font-base);
+        line-height: 1.7;
+        color: var(--c-body);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-weight: 600;
+        color: var(--c-dark) !important;
+    }
+
+    .h1, .h2, .h3, .h4, .h5, .h6 {
+        font-weight: 600;
+        color: var(--c-dark);
+    }
+
+    a {
+        text-transform: none;
+        color: var(--c-brand-light);
+        transition: var(--transition);
+    }
+
+        a:hover {
+            color: var(--c-brand-light);
+        }
+
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .section-padding {
+        padding-top: 140px;
+        padding-bottom: 140px;
+    }
+
+    .theme-shadow {
+        box-shadow: var(--box-shadow);
+    }
+
+    /* IMAGE ZOOM */
+    /* IMAGE ZOOM */
+    .image-zoom {
+        position: relative;
+        /* overflow: hidden; */
+    }
+
+    .image-zoom-wrapper {
+        overflow: hidden;
+        position: relative;
+    }
+
+        .image-zoom-wrapper img {
+            transition: var(--transition);
+        }
+
+    .image-zoom:hover .image-zoom-wrapper img {
+        transform: scale(1.1);
+    }
+
+    .btn {
+        font-weight: 500;
+        font-size: 18px;
+        text-transform: uppercase;
+        border-radius: 0;
+        padding: 10px 24px;
+    }
+
+    .btn-brand {
+        background-color: #4e57d4;
+        border-color: #4e57d4;
+        color: white;
+    }
+
+    #btn-brand {
+        background-color: #4e57d4;
+        border-color: #4e57d4;
+        color: white;
+    }
+
+    .btn-brand:hover {
+        background-color: var(--c-brand-light);
+        border-color: var(--c-brand-light);
+        color: white;
+    }
+
+    #btn-brand:hover {
+        background-color: var(--c-brand-light);
+        border-color: var(--c-brand-light);
+        color: white;
+    }
+
+    #hero {
+        background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../lib/img/hero-1.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+
+    /* SECTION TITLE */
+    .section-title {
+        margin-bottom: 60px;
+        text-align: center;
+    }
+
+        .section-title .line {
+            width: 60px;
+            height: 4px;
+            background-color: #4e57d4;
+            margin: 16px auto 24px auto;
+        }
+
+        .section-title p {
+            font-size: 20px;
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+    #about p {
+        font-size: 20px;
+    }
+
+    /* ICONBOX */
+    .iconbox {
+        width: 70px;
+        height: 70px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background: rgba(var(--c-brand-rgb), 0.1);
+        color: #4e57d4;
+        font-size: 34px;
+        flex: none;
+    }
+
+    /* SERVICES */
+    .service {
+        position: relative;
+        overflow: hidden;
+        z-index: 2;
+    }
+
+        .service p {
+            font-size: 20px;
+        }
+
+        .service::after {
+            content: "";
+            width: 40px;
+            height: 40px;
+            background: rgb(var(--c-brand-rgb), 0.2);
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            transition: var(--transition);
+        }
+
+        .service:hover::after {
+            width: 100%;
+            height: 100%;
+            background: #4e57d4;
+            z-index: -1;
+        }
+
+        .service:hover h5,
+        .service:hover p {
+            color: white;
+        }
+
+        .service:hover .iconbox {
+            background-color: rgba(255, 255, 255, 0.2);
+            color: white;
+        }
+
+    /* COUNTER */
+    #counter {
+        background: linear-gradient(rgba(var(--c-brand-rgb), 0.8), rgba(var(--c-brand-rgb), 0.438)), url(../lib/img/counter.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+
+    /* PORTFOLIO */
+    .portfolio-item .iconbox {
+        background-color: #4e57d4;
+        color: white;
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        opacity: 0;
+    }
+
+    .portfolio-item:hover .iconbox {
+        opacity: 1;
+        top: 50%;
+    }
+
+    /* REVIEW */
+    .review small {
+        font-weight: 600;
+        text-transform: uppercase;
+        color: #4e57d4;
+    }
+
+    .review-head {
+        position: relative;
+    }
+
+        .review-head::after {
+            content: "";
+            width: 28px;
+            height: 28px;
+            position: absolute;
+            bottom: -14px;
+            background-color: white;
+            transform: rotate(45deg);
+        }
+
+    /* TEAM */
+    .team-member {
+        padding: 10px;
+    }
+
+    .team-member-content {
+        background-color: #4e57d4;
+        position: absolute;
+        bottom: -24px;
+        left: 50%;
+        width: calc(100% - 50px);
+        transform: translateX(-50%);
+        padding: 24px;
+        transition: var(--transition);
+        opacity: 0;
+        margin-top: 10px;
+    }
+
+    .team-member:hover .team-member-content {
+        opacity: 1;
+        bottom: 24px;
+    }
+
+    /* CONTACT */
+    #contact {
+        position: relative;
+        z-index: 2;
+    }
+
+        #contact::after {
+            content: "";
+            width: 100%;
+            height: 70%;
+            background: linear-gradient(rgba(var(--c-brand-rgb), 0.8), rgba(var(--c-brand-rgb), 0.438)), url(../lib/img/counter.jpg);
+            background-position: center;
+            background-size: cover;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+        }
+
+        #contact .form-control {
+            border-radius: 0;
+        }
+
+            #contact .form-control:focus {
+                box-shadow: none;
+                border-color: #4e57d4;
+            }
+
+    /* FOOTER */
+    footer {
+        margin-top: 120px;
+    }
+
+    .footer-top {
+        padding-bottom: 40px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .footer-bottom {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    footer li,
+    footer p,
+    footer a {
+        color: rgba(255, 255, 255, 0.7);
+    }
+
+    footer ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    footer .line {
+        width: 40px;
+        height: 4px;
+        background-color: #4e57d4;
+        margin-top: 12px;
+        margin-bottom: 24px;
+    }
+
+    .social-icons a {
+        width: 40px;
+        height: 40px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background-color: rgba(255, 255, 255, 0.1);
+        border-radius: 100px;
+    }
+
+        .social-icons a:hover {
+            background-color: #4e57d4;
+            color: white;
+        }
+
+</style>

@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Pacientes</h1>
+
+<div class="modal fade" id="PacienteModal" tabindex="-1" aria-labelledby="PacienteModal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="PacienteModal">Pacientes</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" onclick="LimpiarPaciente()"></button>
+            </div>
+            <div class="modal-body">
+                <form method="post" id="frmGuardarPaciente" class="row g-3">
+                    <div class="col-md-6">
+                        <label for="idPaciente" class="form-label">Id Paciente</label>
+                        <input type="text" class="form-control" readonly id="idPaciente" name="idPaciente" placeholder="Id Paciente">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="nombre" class="form-label">Nombre</label>
+                        <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="apellido" class="form-label">Apellido</label>
+                        <input type="text" class="form-control" id="apellido" name="apellido" placeholder="Apellido">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="fechaNacimiento" class="form-label">Fecha Nacimiento</label>
+                        <input type="date" class="form-control" id="fechaNacimiento" name="fechaNacimiento" placeholder="Fecha Nacimiento" max=2025-03-01>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="telefono" class="form-label">Telefono</label>
+                        <input type="text" class="form-control" id="telefono" name="telefono" placeholder="Telefono">
+                    </div>
+                    <div class="col-md-8">
+                        <label for="email" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+                    </div>
+                    <div class="col-md-12">
+                        <label for="direccion" class="form-label">Direccion</label>
+                        <input type="text" class="form-control" id="direccion" name="direccion" placeholder="Direccion">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" onclick="GuardarPaciente()" class="btn btn-primary" data-bs-dismiss="modal">Guardar</button>
+                <button type="button" onclick="LimpiarPaciente()" class="btn btn-danger">Limpiar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="divTabla">
+</div>
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/pacientes.js"></script>

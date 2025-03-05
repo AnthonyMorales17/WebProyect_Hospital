@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Tratamientos</h1>
+
+<div class="modal fade" id="TratamientoModal" tabindex="-1" aria-labelledby="TratamientoModal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="TratamientoModal">Tratamiento</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" onclick="LimpiarTratamiento()"></button>
+            </div>
+            <div class="modal-body">
+                <form method="post" id="frmGuardarTratamiento" class="row g-3">
+                    <div class="col-md-6">
+                        <label for="idTratamiento" class="form-label">Id Tratamiento</label>
+                        <input type="text" class="form-control" readonly id="idTratamiento" name="idTratamiento" placeholder="Id Tratamiento">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="idPaciente" class="form-label">Id Paciente</label>
+                        <input type="text" class="form-control" id="idPaciente" name="idPaciente" placeholder="Id Paciente">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="nombrePaciente" class="form-label">Nombre Paciente</label>
+                        <input type="text" class="form-control" id="nombrePaciente" name="nombrePaciente" placeholder="Nombre Paciente">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="descripcion" class="form-label">Descripciòn</label>
+                        <input type="text" class="form-control" id="descripcion" name="descripcion" placeholder="Descripcion">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="fecha" class="form-label">Fecha</label>
+                        <input type="date" class="form-control" id="fecha" name="fecha" placeholder="Fecha" max=2025-12-20>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="costo" class="form-label">Costo</label>
+                        <input type="number" class="form-control" id="costo" name="costo" placeholder="Costo Tratamiento" step="0.01" min="1">
+					</div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" onclick="GuardarTratamiento()" class="btn btn-primary" data-bs-dismiss="modal">Guardar</button>
+                <button type="button" onclick="LimpiarTratamiento()" class="btn btn-danger">Limpiar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="divTabla">
+</div>
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/tratamiento.js"></script>
+

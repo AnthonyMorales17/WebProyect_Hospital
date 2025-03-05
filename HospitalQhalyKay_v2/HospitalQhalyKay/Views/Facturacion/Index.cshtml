@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Facturacion</h1>
+
+<div class="modal fade" id="FacturacionModal" tabindex="-1" aria-labelledby="FacturacionModal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="FacturacionModal">Factura</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" onclick="LimpiarFacturacion()"></button>
+            </div>
+            <div class="modal-body">
+                <form method="post" id="frmGuardarFacturacion" class="row g-3">
+                    <div class="col-md-6">
+                        <label for="idFacturacion" class="form-label">Id Factura</label>
+                        <input type="text" class="form-control" readonly id="idFacturacion" name="idFacturacion" placeholder="Id Factura">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="idPaciente" class="form-label">Id Paciente</label>
+                        <input type="text" class="form-control" id="idPaciente" name="idPaciente" placeholder="Id Paciente">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="nombrePaciente" class="form-label">Nombre Paciente</label>
+                        <input type="text" class="form-control" id="nombrePaciente" name="nombrePaciente" placeholder="Nombre Paciente">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="monto" class="form-label">Monto</label>
+                        <input type="number" class="form-control" id="monto" name="monto" placeholder="Monto" step="0.01" min="1">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="metodoPago" class="form-label">Metodo de Pago</label>
+                        <input type="text" class="form-control" id="metodoPago" name="metodoPago" placeholder="Metodo de Pago">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="fechaPago" class="form-label">Fecha Pago</label>
+                        <input type="date" class="form-control" id="fechaPago" name="fechaPago" placeholder="Fecha" max=2025-12-20>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" onclick="GuardarFacturacion()" class="btn btn-primary" data-bs-dismiss="modal">Guardar</button>
+                <button type="button" onclick="LimpiarFacturacion()" class="btn btn-danger">Limpiar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="divTabla">
+</div>
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/facturacion.js"></script>

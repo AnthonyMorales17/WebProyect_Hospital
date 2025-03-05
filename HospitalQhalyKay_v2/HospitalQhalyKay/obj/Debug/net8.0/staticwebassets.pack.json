@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HospitalQhalyKay.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HospitalQhalyKay.b6xto2sofj.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\css\\clash-display.css",
+      "PackagePath": "staticwebassets\\css\\clash-display.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\fonts\\ClashDisplay-Variable.eot",
+      "PackagePath": "staticwebassets\\fonts\\ClashDisplay-Variable.eot"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\fonts\\ClashDisplay-Variable.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ClashDisplay-Variable.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\fonts\\ClashDisplay-Variable.woff",
+      "PackagePath": "staticwebassets\\fonts\\ClashDisplay-Variable.woff"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\fonts\\ClashDisplay-Variable.woff2",
+      "PackagePath": "staticwebassets\\fonts\\ClashDisplay-Variable.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\cita.js",
+      "PackagePath": "staticwebassets\\js\\cita.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\contactForm.js",
+      "PackagePath": "staticwebassets\\js\\contactForm.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\especialidades.js",
+      "PackagePath": "staticwebassets\\js\\especialidades.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\facturacion.js",
+      "PackagePath": "staticwebassets\\js\\facturacion.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\generic.js",
+      "PackagePath": "staticwebassets\\js\\generic.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\medico.js",
+      "PackagePath": "staticwebassets\\js\\medico.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\pacientes.js",
+      "PackagePath": "staticwebassets\\js\\pacientes.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\tratamiento.js",
+      "PackagePath": "staticwebassets\\js\\tratamiento.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\css\\style.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\bootstrap\\dist\\js\\main.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\blog-post-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\blog-post-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\blog-post-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\blog-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\counter.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\counter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\hero-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\hero-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\hero-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\hospitallogo.svg",
+      "PackagePath": "staticwebassets\\lib\\img\\hospitallogo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\logo-dark.svg",
+      "PackagePath": "staticwebassets\\lib\\img\\logo-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\logo-white.svg",
+      "PackagePath": "staticwebassets\\lib\\img\\logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\person-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\person-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\person-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\person-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\person-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\person-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\person-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\person-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\person-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\person-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\person-6.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\person-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\project-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\project-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\project-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\project-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\project-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\project-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\project-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\project-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\project-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\project-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\img\\project-6.jpg",
+      "PackagePath": "staticwebassets\\lib\\img\\project-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HospitalQhalyKay.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HospitalQhalyKay.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HospitalQhalyKay.props",
+      "PackagePath": "build\\HospitalQhalyKay.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HospitalQhalyKay.props",
+      "PackagePath": "buildMultiTargeting\\HospitalQhalyKay.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HospitalQhalyKay.props",
+      "PackagePath": "buildTransitive\\HospitalQhalyKay.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

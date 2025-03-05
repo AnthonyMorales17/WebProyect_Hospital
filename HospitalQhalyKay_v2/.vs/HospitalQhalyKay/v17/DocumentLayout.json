@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2B7CF3-7D16-44B9-9678-E7100785ADC8}|CapaDatos\\CapaDatos.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\capadatos\\facturaciondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2B7CF3-7D16-44B9-9678-E7100785ADC8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\facturaciondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F3897-A3F8-4660-9159-CDD5C7661356}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\capaentidad\\facturacioncls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F3897-A3F8-4660-9159-CDD5C7661356}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\facturacioncls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\hospitalqhalykay\\wwwroot\\js\\facturacion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|solutionrelative:hospitalqhalykay\\wwwroot\\js\\facturacion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\hospitalqhalykay\\views\\facturacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|solutionrelative:hospitalqhalykay\\views\\facturacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2B7CF3-7D16-44B9-9678-E7100785ADC8}|CapaDatos\\CapaDatos.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\capadatos\\pacientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2B7CF3-7D16-44B9-9678-E7100785ADC8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\pacientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\hospitalqhalykay\\wwwroot\\js\\tratamiento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|solutionrelative:hospitalqhalykay\\wwwroot\\js\\tratamiento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\hospitalqhalykay\\views\\tratamiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|solutionrelative:hospitalqhalykay\\views\\tratamiento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\hospitalqhalykay\\wwwroot\\js\\medico.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|solutionrelative:hospitalqhalykay\\wwwroot\\js\\medico.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\hospitalqhalykay\\wwwroot\\js\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|solutionrelative:hospitalqhalykay\\wwwroot\\js\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\hospitalqhalykay\\controllers\\facturacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|solutionrelative:hospitalqhalykay\\controllers\\facturacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C0E94E-1EA5-42C6-A6BC-7DFCB4FF5FFC}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\capanegocio\\facturacionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C0E94E-1EA5-42C6-A6BC-7DFCB4FF5FFC}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\facturacionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\hospitalqhalykay\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C2DAA6-DBB9-46CC-B15E-DFC2202DF156}|HospitalQhalyKay\\HospitalQhalyKay.csproj|solutionrelative:hospitalqhalykay\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C0E94E-1EA5-42C6-A6BC-7DFCB4FF5FFC}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\capanegocio\\pacientebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C0E94E-1EA5-42C6-A6BC-7DFCB4FF5FFC}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\pacientebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829F3897-A3F8-4660-9159-CDD5C7661356}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\anthony\\source\\hospitalqhalykay\\capaentidad\\pacientecls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829F3897-A3F8-4660-9159-CDD5C7661356}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\pacientecls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\Views\\Facturacion\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalQhalyKay\\Views\\Facturacion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\Views\\Facturacion\\Index.cshtml",
+              "RelativeToolTip": "HospitalQhalyKay\\Views\\Facturacion\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T02:06:39.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "medico.js",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\medico.js",
+              "RelativeDocumentMoniker": "HospitalQhalyKay\\wwwroot\\js\\medico.js",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\medico.js",
+              "RelativeToolTip": "HospitalQhalyKay\\wwwroot\\js\\medico.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-05T02:02:06.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tratamiento.js",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\tratamiento.js",
+              "RelativeDocumentMoniker": "HospitalQhalyKay\\wwwroot\\js\\tratamiento.js",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\tratamiento.js",
+              "RelativeToolTip": "HospitalQhalyKay\\wwwroot\\js\\tratamiento.js",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-05T01:59:27.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "facturacion.js",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\facturacion.js",
+              "RelativeDocumentMoniker": "HospitalQhalyKay\\wwwroot\\js\\facturacion.js",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\facturacion.js",
+              "RelativeToolTip": "HospitalQhalyKay\\wwwroot\\js\\facturacion.js",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-05T01:58:05.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturacionCLS.cs",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\CapaEntidad\\FacturacionCLS.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\FacturacionCLS.cs",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\CapaEntidad\\FacturacionCLS.cs",
+              "RelativeToolTip": "CapaEntidad\\FacturacionCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:51:24.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FacturacionBL.cs",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\CapaNegocio\\FacturacionBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\FacturacionBL.cs",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\CapaNegocio\\FacturacionBL.cs",
+              "RelativeToolTip": "CapaNegocio\\FacturacionBL.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:48:37.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturacionDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\CapaDatos\\FacturacionDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\FacturacionDAL.cs",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\CapaDatos\\FacturacionDAL.cs",
+              "RelativeToolTip": "CapaDatos\\FacturacionDAL.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAgwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:48:35.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FacturacionController.cs",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\Controllers\\FacturacionController.cs",
+              "RelativeDocumentMoniker": "HospitalQhalyKay\\Controllers\\FacturacionController.cs",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\Controllers\\FacturacionController.cs",
+              "RelativeToolTip": "HospitalQhalyKay\\Controllers\\FacturacionController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:48:26.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\Views\\Tratamiento\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalQhalyKay\\Views\\Tratamiento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\Views\\Tratamiento\\Index.cshtml",
+              "RelativeToolTip": "HospitalQhalyKay\\Views\\Tratamiento\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T00:15:00.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacienteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\CapaDatos\\PacienteDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\PacienteDAL.cs",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\CapaDatos\\PacienteDAL.cs",
+              "RelativeToolTip": "CapaDatos\\PacienteDAL.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T21:26:32.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PacienteCLS.cs",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\CapaEntidad\\PacienteCLS.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\PacienteCLS.cs",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\CapaEntidad\\PacienteCLS.cs",
+              "RelativeToolTip": "CapaEntidad\\PacienteCLS.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T21:26:34.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PacienteBL.cs",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\CapaNegocio\\PacienteBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\PacienteBL.cs",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\CapaNegocio\\PacienteBL.cs",
+              "RelativeToolTip": "CapaNegocio\\PacienteBL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:57:03.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "HospitalQhalyKay\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "HospitalQhalyKay\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAlwCQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:53:56.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "generic.js",
+              "DocumentMoniker": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\generic.js",
+              "RelativeDocumentMoniker": "HospitalQhalyKay\\wwwroot\\js\\generic.js",
+              "ToolTip": "C:\\Users\\ANTHONY\\source\\HospitalQhalyKay\\HospitalQhalyKay\\wwwroot\\js\\generic.js",
+              "RelativeToolTip": "HospitalQhalyKay\\wwwroot\\js\\generic.js",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAwwIoAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-04T19:42:51.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
